@@ -1,0 +1,11 @@
+.pic {
+	width: 300px;
+	display: block;
+}
+
+.video-title,
+.video-author,
+.video-stats {
+	width: 300px;
+}
+
